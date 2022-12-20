@@ -1,0 +1,284 @@
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("I wake up to the sounds;", "All")
+
+wait(1)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("of the silence that allows-", "All")
+
+wait(2)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("For my mind to run around, put my ear up to the ground", "All")
+
+wait(3)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("I'm searching to behold; The stories that are told", "All")
+
+wait(3)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("When my back is to the world;", "All")
+
+wait(2)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("that was smiling when i turned", "All")
+
+wait(2)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Tell you you're the greatest,", "All")
+
+wait(4)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("But once you turn", "All")
+
+wait(2)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("They hate", "All")
+
+wait(2)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Us-", "All")
+
+wait(3)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Oh the misery,", "All")
+
+wait(2)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Everybody wants to be my enemy", "All")
+
+wait(4)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Spare the sympathy", "All")
+
+wait(3)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Everybody wants to be;", "All")
+
+wait(2)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("My enemy", "All")
+
+wait(3)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("y-y-yy-y", "All")
+
+wait(2.2) -- when 2.2??
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Look out for yourself-", "All")
+
+wait(2)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("My enemy", "All")
+
+wait(2)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("y-y-yy-y", "All")
+
+wait(2.2)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Look out for yourself-", "All")
+
+wait(2)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("But I'm ready.", "All")
+
+wait(2)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Your words up on the wall as you're praying for my fall", "All")
+
+wait(3)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("and the laughters in the hall", "All")
+
+wait(1)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("And the names that i've called", "All")
+
+wait(1)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("I stack it in my mind and i'm waiting for the time", "All")
+
+wait(3)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("When i show you what it's like to be words spit in a mic", "All")
+
+wait(3)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Tell you you're the greatest", "All")
+
+wait(5)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("But once you turn they hate us", "All")
+
+wait(5)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Oh, the misery", "All")
+
+wait(2)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Everybody wants to be my enemy", "All")
+
+wait(2)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Spare the sympathy", "All")
+
+wait(3)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Everybody wants to be", "All")
+
+wait(1)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("My enemy", "All")
+
+wait(2)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("y-y-yy-y", "All")
+
+wait(4)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Look out for yourself", "All")
+
+wait(1)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("My enemy-y-y-yy-y", "All")
+
+wait(5)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Look out for youself", "All")
+
+wait(2)
+
+-- Part by J.I.D
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Uh, look ok", "All")
+
+wait(1)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("I'm hoping that somebody pray for me", "All")
+
+wait(1)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("I'm praying that somebody hope for me", "All")
+
+wait(1)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("I'm staying where nobody 'posed to be", "All")
+
+wait(1)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Posted, being a wreck of emotions", "All")
+
+wait(3)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Ready to go whenever, just let me know", "All")
+
+wait(2)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("The road is long, so put the pedal into the floor", "All")
+
+wait(2)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("The enemy on my trail, my energy unavailable", "All")
+
+wait(3)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("I'ma tell 'em,'Hasta luego' ", "All")
+
+wait(2)
+
+-- speed
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("They wanna plot on my trot to the top", "All")
+
+wait(2)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("I've been outta shape, thinkin' out of the box", "All")
+
+wait(2)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("I'm an astronaut, i blasted off the planet rock", "All")
+
+wait(2)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("To cause catastrophe and it matters more because i had it", "All")
+
+wait(2)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("And i had a thought about wreaking havoc on an opposition, kinda shockin'", "All")
+
+wait(3)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("They want a static with precision, i'm automatic quarterback", "All")
+
+wait(3)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("I ain't talking about sacking pack it, pack it up, i don't panic, batter-batter up", "All")
+
+wait(3)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Who the baddest? it doesn't matter 'cause we at your throat", "All")
+
+wait(2)
+
+-- ah
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Everybody wants to be my enemy", "All")
+
+wait(3)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Spare the sympathy", "All")
+
+wait(2)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Everybody wants to be", "All")
+
+wait(2)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("My enemy", "All")
+
+wait(1)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("y-y-yy-y", "All")
+
+wait(3)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Look out for yourself-", "All")
+
+wait(2)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("My enemy", "All")
+
+wait(3)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("y-y-yy-y", "All")
+
+wait(3)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Look out for yourself-", "All")
+
+wait(2)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("My enemy-", "All")
+
+wait(3)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Pray it 'way, i swear", "All")
+
+wait(2)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("I'll never be a saint no way", "All")
+
+wait(3)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("My enemy", "All")
+
+wait(2)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Pray it 'way, i swear", "All")
+
+wait(2)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("i'll never be a saint", "All")
+
+wait(2)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Look out for yourself-", "All")
