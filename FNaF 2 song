@@ -1,0 +1,171 @@
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("I don't know what i was thinking,", "All")
+
+wait(2)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Leaving my child behind-", "All")
+
+wait(3)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Now i suffer the curse and now i am blind..", "All")
+
+wait(4)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("With all this anger, guilt and sadness", "All")
+
+wait(3)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("coming to haunt me forever", "All")
+
+wait(2)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("I can't wait for the cliff at the end of the river", "All")
+
+wait(4)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Is this revenge i'm seeking?", "All")
+
+wait(3)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Or Seeking someone to avenge me?", "All")
+
+wait(3)
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Stuck in my own paradox", "All")
+
+wait(2.7)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("I wanna set myself free", "All")
+
+wait(3)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Maybe i should chase and find", "All")
+
+wait(2)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Before they'll try to stop it", "All")
+
+wait(3)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("It won't be long before i become a puppet", "All")
+
+wait(2.5)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("It's Been so long", "All")
+
+wait(2)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Since i last have seen my son lost to this monster", "All")
+
+wait(3.2)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("To the man behind the slaughter", "All")
+
+wait(3)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Since you've been gone", "All")
+
+wait(2)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("I've been singing this stew-pid song so i could ponder", "All")
+
+wait(4)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("The sanity of your mother", "All")
+
+wait(3)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("clak", "All")
+
+wait(0.2)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("clak", "All")
+
+wait(1)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("tss", "All")
+
+wait(2)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("-instrumental-", "All")
+
+wait(7)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("I wish i lived in the present", "All")
+
+wait(2)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("With the gifts of my past mistakes", "All")
+
+wait(3)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("But the future keeps luring in like a pack of snakes", "All")
+
+wait(3)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Your sweet little eyes", "All")
+
+wait(2)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Your little smile", "All")
+
+wait(1)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("is all i remember", "All")
+
+wait(2)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Those fuzzy memories mess with my temper", "All")
+
+wait(5)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Justification is killing me", "All")
+
+wait(2)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("But killing isn't justified", "All")
+
+wait(3)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("What happend to my son, I'm terrified", "All")
+
+wait(3.5)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("It lingers in my mind", "All")
+
+wait(2)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("And the thought keeps on getting bigger", "All")
+
+wait(3)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("I'm sorry my sweet baby,", "All")
+
+wait(2)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("I wish i been there", "All")
+
+wait(3)
+
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("It's Been so long", "All")
+
+wait(2)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Since i last have seen my son lost to this monster", "All")
+
+wait(3.2)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("To the man behind the slaughter", "All")
+
+wait(3)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Since you've been gone", "All")
+
+wait(2)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("I've been singing this stew-pid song so i could ponder", "All")
+
+wait(4)
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("The sanity of your mother", "All")
+
+wait(3)
